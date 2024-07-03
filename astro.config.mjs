@@ -5,9 +5,9 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Technological Telescope',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/ArtechFuz3D-Studio/astro-starlight-tauri',
 			},
 			sidebar: [
 				{
