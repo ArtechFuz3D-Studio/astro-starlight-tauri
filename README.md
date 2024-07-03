@@ -1,5 +1,9 @@
 # Astro Starlight with Tauri Starter Kit: Cross-Platform Docs App
 
+``
+      "identifier": "xyz.artechfuz3d.technological-telescope",
+      "longDescription": "A docs app leveraging the power of TauriJS and AstroJS",
+``
 
 <!-- # Starlight Starter Kit: Basics
 

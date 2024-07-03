@@ -29,8 +29,8 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri.dev",
-      "longDescription": "",
+      "identifier": "xyz.artechfuz3d.technological-telescope",
+      "longDescription": "A docs app leveraging the power of TauriJS and AstroJS",
       "macOS": {
         "entitlements": null,
         "exceptionDomain": "",
