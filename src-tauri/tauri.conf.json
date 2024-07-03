@@ -17,7 +17,7 @@
     "bundle": {
       "active": true,
       "category": "DeveloperTool",
-      "copyright": "",
+      "copyright": "ArtechFuz3D",
       "deb": {
         "depends": []
       },
